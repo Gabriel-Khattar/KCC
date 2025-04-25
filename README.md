@@ -7,7 +7,7 @@ We introduce a new framework that leverages observational data on community comp
 
 This framework also offers a valuable tool for practitioners to assess the value of local communities and their contributions to metacommunity dynamics. 
 
-This package contains all functions necessary to estimate community keystoneness using compositional data (i.e., species X sites X time matrices), including its main function `Keystone_calculation`
+This package contains all functions necessary to estimate community keystoneness using compositional data (i.e., species X sites X time matrices), including its main function `Keystoneness_calculation`
 
 
 For practical examples of how to apply this framework, refer to Section 4 of Khattar and Peres‑Neto (2025) “Quantifying Community Keystoneness in Metacommunities under Disturbance” (Oikos, https://doi.org/10.1002/oik.11163) and its Supplementary Information.
