@@ -21,9 +21,10 @@ You can install the development version of KCC with:
 install.packages("devtools")
 
 # then install the package
-devtools::install_github("Gabriel-Khattar/KCC")
+devtools::install_github("Gabriel-Khattar/KCC",dependencies =T)
 
 # Operational Example
+library(KCC)
 library(vegan)
 data (mite)
 
