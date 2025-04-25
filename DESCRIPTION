@@ -1,0 +1,15 @@
+Package: KCC
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gabriel", "Khattar", , "first.last@example.com", role = c("aut", "cre"))
+Description: Runs the KCC framework described in Khattar and Peres-Neto 2025 (Oikos, https://doi.org/10.1002/oik.11163) .
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    parallel,
+    reshape2,
+    vegan
