@@ -13,3 +13,5 @@ Imports:
     parallel,
     reshape2,
     vegan
+URL: https://github.com/Gabriel-Khattar/KCC
+BugReports: https://github.com/Gabriel-Khattar/KCC/issues
